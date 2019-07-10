@@ -1,0 +1,9 @@
+name: LunarAPI
+version: "1.0"
+main: xyz.selyu.lunar.LunarAPI
+
+commands:
+  emote:
+    description: "emote"
+  lctitle:
+    description: "title"
